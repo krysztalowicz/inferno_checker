@@ -1,5 +1,7 @@
 {
  "isFree": true,
  "availableFor": ["Verticjr"],
- "message": ", niestety ale ten skrypt [AutoPlant] nie jest dostepny publicznie.\n\nhttps://discord.com/channels/1180918752842350622"
+ "message": ", niestety ale ten skrypt [AutoPlant] nie jest dostepny publicznie.\n\nhttps://discord.com/channels/1180918752842350622",
+ "messageFreeScript": "[AutoPlant] Korzystasz z darmowego skryptu autorstwa 'Mateusz'. Więcej skryptów lub pomoc na serwerze discord - https://discord.com/channels/1180918752842350622",
+ "messagePaidScript": "[AutoPlant] Korzystasz z płatnego skryptu autorstwa 'Mateusz'. Więcej skryptów lub pomoc na serwerze discord - https://discord.com/channels/1180918752842350622"
 }
